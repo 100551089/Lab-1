@@ -77,7 +77,7 @@ class Ship:
                 self.pos = (self.pos[0] + 1, self.pos[1])
                 valid = True
             elif direction == "exit":
-                
+                ffff
                 valid = True
             else:
                 print("Invalid input")
